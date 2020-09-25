@@ -1,3 +1,9 @@
 [submodule "react-native"]
 	path = react-native
 	url = https://github.com/robence/react-native-projects
+[submodule "flutter"]
+	path = flutter
+	url = git@github.com:robence/flutter-projects.git
+[submodule "python"]
+	path = python
+	url = git@github.com:robence/python-projects.git
