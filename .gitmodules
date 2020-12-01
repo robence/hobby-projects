@@ -10,3 +10,6 @@
 [submodule "react"]
 	path = react
 	url = git@github.com:robence/react-projects.git
+[submodule "graphql"]
+	path = graphql
+	url = git@github.com:robence/graphql-projects.git
